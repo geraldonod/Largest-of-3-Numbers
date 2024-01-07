@@ -1,4 +1,8 @@
 #pseudocode
+
+# Greeting
+print("Hi there! Please input three numbers and I will identify which one has the largest value.")
+
 #Get input from user
 number_1 = int(input("Enter the first number: "))
 number_2 = int(input("Enter the second number: "))
